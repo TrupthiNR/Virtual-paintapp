@@ -35,9 +35,12 @@ A web-based drawing application that lets you draw using **hand gestures** via y
 
 ## Installation 💻
 
+## Installation 💻
+
 Clone the repository and run locally:
 
 ```bash
-git clone https://github.com/<your-username>/Virtual-paintapp.git
+git clone https://github.com/TrupthiNR/Virtual-paintapp.git
 cd Virtual-paintapp
-# Open index.html in your browser
+
+
