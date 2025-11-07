@@ -7,7 +7,7 @@ Using **OpenCV** and **MediaPipe**, it tracks your hand movements in real-time a
 
 ## 🌐 Live Demo
 
-🚀 **Try it now:** [Virtual Paint App on Vercel](https://<your-vercel-app-name>.vercel.app)
+🚀 **Try it now:** [Virtual Paint App on Vercel](https://virtual-paint-trupthi.vercel.app)
 
 > _(Replace `<your-vercel-app-name>` with your actual deployed URL — e.g., `https://virtual-paint-trupthi.vercel.app`)_  
 
