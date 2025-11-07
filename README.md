@@ -18,13 +18,6 @@ A web-based drawing application that lets you draw using **hand gestures** via y
 
 ---
 
-## Demo
-
-![Virtual Paint Demo](demo-image.gif)  
-*Replace with your GIF or screenshot of the app.*
-
----
-
 ## How to Use 🖐️
 
 1. Allow camera access when prompted.
