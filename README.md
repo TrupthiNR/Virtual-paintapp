@@ -1,17 +1,25 @@
 # 🎨 Virtual Paint App
 
-A **Computer Vision** based project that allows users to **draw in the air using hand gestures**.  
-This project uses **OpenCV** and **MediaPipe** to detect hand landmarks and simulate a virtual canvas where you can paint without touching the screen!
+A **Computer Vision** powered **Virtual Paint App** that lets users **draw in the air using hand gestures** — now available online through **Vercel**!  
+Using **OpenCV** and **MediaPipe**, it tracks your hand movements in real-time and paints on a virtual canvas without touching the screen.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try it now:** [Virtual Paint App on Vercel](https://<your-vercel-app-name>.vercel.app)
+
+> _(Replace `<your-vercel-app-name>` with your actual deployed URL — e.g., `https://virtual-paint-trupthi.vercel.app`)_  
 
 ---
 
 ## 🚀 Features
 
-- 🖐️ Real-time hand tracking using **MediaPipe**
-- 🎨 Draw on a virtual canvas using finger movements
+- 🖐️ Real-time **hand gesture tracking** using MediaPipe
+- 🎨 Draw in the air using your index finger
 - 🧠 Detects gestures like **draw**, **erase**, and **color change**
-- 📷 Works directly with your webcam
-- ⚡ Smooth, real-time performance with OpenCV
+- 📷 Works directly in your **browser**
+- ⚡ Deployed on **Vercel** for instant online access
 
 ---
 
@@ -19,17 +27,19 @@ This project uses **OpenCV** and **MediaPipe** to detect hand landmarks and simu
 
 | Component | Technology |
 |------------|-------------|
-| Programming Language | Python |
-| Libraries | OpenCV, MediaPipe, NumPy |
-| Environment | Python 3.10+ |
-| Interface | Webcam feed with drawing overlay |
+| Frontend | React + OpenCV.js / HTML + JS (depending on version) |
+| Computer Vision | OpenCV / MediaPipe |
+| Deployment | Vercel |
+| Language | JavaScript / Python (if backend used) |
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Local Setup (Optional)
+
+If you also want to run it locally before deploying:
 
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/virtual-paint.git
+   git clone https://github.com/Trupthi-N-Raikar/virtual-paint.git
    cd virtual-paint
