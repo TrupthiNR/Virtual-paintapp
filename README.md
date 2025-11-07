@@ -35,8 +35,6 @@ A web-based drawing application that lets you draw using **hand gestures** via y
 
 ## Installation 💻
 
-## Installation 💻
-
 Clone the repository and run locally:
 
 ```bash
